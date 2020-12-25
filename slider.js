@@ -1,1 +1,3 @@
 //Slider.js
+
+//proper comments
